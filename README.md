@@ -27,7 +27,6 @@ Experienced in crafting native iOS applications with a focus on **Swift** and **
 
 *"Code is poetry written for machines to understand, but humans to maintain."*
 
-![Alperen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alperentnc&theme=tokyonight)
 <!--
 **alperentnc/alperentnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
