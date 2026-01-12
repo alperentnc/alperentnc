@@ -9,7 +9,7 @@ Experienced in crafting native iOS applications with a focus on **Swift** and **
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Swift (Expertise), Objective-C (Exposure) |
-| **Frameworks** | SwiftUI, UIKit, Combine |
+| **Frameworks** | SwiftUI, Combine |
 | **Architecture** | MVVM, Clean Architecture, SOLID Principles |
 | **Data Storage** | SwiftData, Core Data, UserDefaults |
 | **Networking** | URLSession, JSON API Integration, Async/Await |
